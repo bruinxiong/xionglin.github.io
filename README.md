@@ -10,6 +10,8 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 Jan 2018: As a Chinese Tech-oriented media, AI Era gave a [full interview](https://mp.weixin.qq.com/s/s9H_OXX-CCakrTAQUFDm8g) for our NIST IJB-A Face Challenge. Our latest performance of IJB-A will be updated in the next version of our [arXiv](https://arxiv.org/abs/1704.00438) paper. 
 
+Jul 2017: We attended [MS-Celeb-1M Large-Scale Face Recognition](http://www.msceleb.org/) with our proposed face recognition [algorithm](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w27/Xu_High_Performance_Large_ICCV_2017_paper.pdf) and archieved No.1 place on Challenge-1 [Random Set and Hard Set](http://www.msceleb.org/leaderboard/iccvworkshop-c1). AI Era gave an [interview](http://www.sohu.com/a/160503484_473283) for this challenge.
+
 May 2017: Panasonic released a [news](http://news.panasonic.com/jp/press/data/2017/05/jn170510-5/jn170510-5.html) to introduce our project and report our archievent on IJB-A Face Verification and Identification Challenge. Moreover, [CNET Japan](https://japan.cnet.com/article/35100942/) also picked up the story.
 
 Apr 2017: We proposed Transferred Deep Feature Fusion (TDFF) for face recogntion and obtained No.1 place on all tracks of National Institute of Standards and Technology (NIST) IARPA Janus Benchmark A (IJB-A) Unconstrained Face Verification and Identification Challenge. Official reports can be found in here: [Identification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_1N_report.pdf) and [Verification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_11_report.pdf) 
