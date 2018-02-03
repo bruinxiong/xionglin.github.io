@@ -36,8 +36,16 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 Full publication can be found in my [researchgate](https://www.researchgate.net/profile/Lin_Xiong4/contributions).
 
+## Work Experience:
+
+* 09/2015 - Present: Research Engineer of Panasonic R&D Center Singapore, Singapore.
+
+* 05/2015 - 09/2015: 2012 Labs, MV OSS Technology Development Department in HuaWei Technologies Co., LTD.
+
 ## Awards:
+
 * 
+
 * 
 
 ## Hobbies:
