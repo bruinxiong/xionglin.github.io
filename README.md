@@ -9,7 +9,7 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## News and Activities:
 
-**Jan 2018:** As a Chinese Tech-oriented media, AI Era gave a [full interview](https://mp.weixin.qq.com/s/s9H_OXX-CCakrTAQUFDm8g) for our NIST IJB-A Face Challenge. Our latest performance of IJB-A will be updated in the next version of our [arXiv](https://arxiv.org/abs/1704.00438) paper. **(coming soon)** 
+**Jan 2018:** As a Chinese Tech-oriented media, AI Era gave a [full interview](https://mp.weixin.qq.com/s/s9H_OXX-CCakrTAQUFDm8g) for our NIST IJB-A Face Challenge. Our latest performance of IJB-A will be updated in the next version of our [arXiv](https://arxiv.org/abs/1704.00438v2) paper. **(New update)** 
 
 **Jul 2017:** We attended [MS-Celeb-1M Large-Scale Face Recognition](http://www.msceleb.org/) with our proposed face recognition [algorithm](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w27/Xu_High_Performance_Large_ICCV_2017_paper.pdf) and archieved No.1 place on Challenge-1 [Random Set and Hard Set](http://www.msceleb.org/leaderboard/iccvworkshop-c1). AI Era gave an [interview](http://www.sohu.com/a/160503484_473283) for this challenge.
 
