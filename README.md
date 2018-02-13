@@ -9,7 +9,7 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## News and Activities:
 
-**Feb 2018:** Our method has achieved **TAR = 0.959 @ FAR = 0.0001** for 1:1 verification and **TPIR = 0.946 @ FPIR = 0.01** for 1:N identification open-protocol on IJB-A. (**Top 1 performance** in current state-of-the-art methods).
+**Feb 2018:** Our method has achieved **TAR = 0.959 @ FAR = 0.0001** for 1:1 verification and **TPIR = 0.946 @ FPIR = 0.01** for 1:N open-protocol identification on IJB-A. (**Top 1 performance** in current state-of-the-art methods).
 
 **Jan 2018:** As a Chinese Tech-oriented media, AI Era gave a [full interview](https://mp.weixin.qq.com/s/s9H_OXX-CCakrTAQUFDm8g) for our NIST IJB-A Face Challenge. Our latest performance of IJB-A will be updated in the next version of our [arXiv](https://arxiv.org/abs/1704.00438v2) paper. **(New update)** 
 
