@@ -9,13 +9,15 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## News and Activities:
 
-**Feb 2018:** Our method has achieved **TAR = 0.959 @ FAR = 0.0001** for 1:1 verification and **TPIR = 0.946 @ FPIR = 0.01** for 1:N open-protocol identification on IJB-A. (**Top 1 performance** in current state-of-the-art methods).
+**Feb 2018:** Panasonic relases a ***[news](http://news.panasonic.com/jp/press/data/2018/02/jn180220-1/jn180220-1.html)*** for a pre-relase of new product integrated with our face recognition algorithm.
 
-**Jan 2018:** As a Chinese Tech-oriented media, AI Era gave a [full interview](https://mp.weixin.qq.com/s/s9H_OXX-CCakrTAQUFDm8g) for our NIST IJB-A Face Challenge. Our latest performance of IJB-A will be updated in the next version of our [arXiv](https://arxiv.org/abs/1704.00438v2) paper. **(New update)** 
+**Feb 2018:** Our method has achieved ***TAR = 0.959 @ FAR = 0.0001*** for 1:1 verification and ***TPIR = 0.946 @ FPIR = 0.01*** for 1:N open-protocol identification on IJB-A. (***Top 1 performance*** in current state-of-the-art methods).
+
+**Jan 2018:** As a Chinese Tech-oriented media, AI Era gave a [full interview](https://mp.weixin.qq.com/s/s9H_OXX-CCakrTAQUFDm8g) for our NIST IJB-A Face Challenge. Our latest performance of IJB-A will be updated in the next version of our [arXiv](https://arxiv.org/abs/1704.00438v2) paper. ***(New update)*** 
 
 **Jul 2017:** We attended [MS-Celeb-1M Large-Scale Face Recognition](http://www.msceleb.org/) with our proposed face recognition [algorithm](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w27/Xu_High_Performance_Large_ICCV_2017_paper.pdf) and archieved No.1 place on Challenge-1 [Random Set and Hard Set](http://www.msceleb.org/leaderboard/iccvworkshop-c1). AI Era gave an [interview](http://www.sohu.com/a/160503484_473283) for this challenge.
 
-**May 2017:** One [paper](http://papers.nips.cc/paper/6612-dual-agent-gans-for-photorealistic-and-identity-preserving-profile-face-synthesis.pdf) is accepted by **NIPS 2017**.
+**May 2017:** One [paper](http://papers.nips.cc/paper/6612-dual-agent-gans-for-photorealistic-and-identity-preserving-profile-face-synthesis.pdf) is accepted by ***NIPS 2017***.
 
 **May 2017:** Panasonic released a [news](http://news.panasonic.com/jp/press/data/2017/05/jn170510-5/jn170510-5.html) to introduce our project and report our archievement on IJB-A Face Verification and Identification Challenge. Moreover, [CNET Japan](https://japan.cnet.com/article/35100942/) also picked up the story.
 
