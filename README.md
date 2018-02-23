@@ -9,6 +9,8 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## News and Activities:
 
+**Feb 2018:** One paper is accepted by ***CVPR 2018***
+
 **Feb 2018:** Panasonic releases a ***[news,Japanese,](http://news.panasonic.com/jp/press/data/2018/02/jn180220-1/jn180220-1.html)[English](http://news.panasonic.com/global/press/data/2018/02/en180220-3/en180220-3.html?utm_source=domo&utm_medium=webpush&utm_campaign=panasonic-newsroom-global_20180220&utm_content=20180220-1)*** for a pre-release of new product integrated with our face recognition algorithm.
 
 **Feb 2018:** Our method has achieved ***TAR = 0.959 @ FAR = 0.0001*** for 1:1 verification and ***TPIR = 0.946 @ FPIR = 0.01*** for 1:N open-protocol identification on IJB-A. (***Top 1 performance*** in current state-of-the-art methods).
@@ -24,6 +26,22 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 **Apr 2017:** We proposed Transferred Deep Feature Fusion (TDFF) for face recogntion and obtained No.1 place on all tracks of National Institute of Standards and Technology (NIST) IARPA Janus Benchmark A (IJB-A) Unconstrained Face Verification and Identification Challenge. Official reports can be found in here: [Identification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_1N_report.pdf) and [Verification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_11_report.pdf) 
 
 ## Selected Publication:
+
+* Jian Zhao, Yu Cheng, Yan Xu, **Lin Xiong**, Jianshu Li, Fang Zhao, Karlekar Jayashree, Sugiri Pranata, Shengmei Shen, Junliang Xing, Shuicheng Yan, and Jiashi Feng, **"Towards Pose Invariant Face Recognition in the Wild"**, in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)**, Salt Lake, UT, USA, 2018. **Coming soon**.
+
++ **Abstract:** Pose variation is one key challenge in face recognition. As opposed to current techniques for pose invariant face
+recognition, which either directly extract pose invariant features for recognition, or first normalize profile face images
+to frontal pose before feature extraction, we argue that it is more desirable to perform both tasks jointly to allow
+them to benefit from each other. To this end, we propose a Pose Invariant Model (PIM) for face recognition in the
+wild, with three distinct novelties. First, PIM is a novel and unified deep architecture, containing a Face Frontalization
+sub-Net (FFN) and a Discriminative Learning sub-Net (DLN), which are jointly learned from end to end. Second,
+FFN is a well-designed dual-path Generative Adversarial Network (GAN) which simultaneously perceives global
+structures and local details, incorporated with an unsupervised cross-domain adversarial training and a “learning
+to learn” strategy for high-fidelity and identity-preserving frontal view synthesis. Third, DLN is a generic Convolutional
+Neural Network (CNN) for face recognition with our enforced cross-entropy optimization strategy for learning
+discriminative yet generalized feature representation. Qualitative and quantitative experiments on both controlled
+and in-the-wild benchmarks demonstrate the superiority of the proposed model over the state-of-the-arts.
+
 * Jian Zhao, **Lin Xiong**, Karlekar Jayashree, Jianshu Li, Fang Zhao, Zhecan Wang, Sugiri Pranata, Shengmei Shen, Shuicheng Yan, Jiashi Feng, **"Dual-Agent GANs for Photorealistic and Identity Preserving Profile Face Synthesis"**, in Proceedings of the 31st Conference on Neural Information Processing Systems **(NIPS)**, Long Beach, CA, USA, 2017. **Acceptance rate is 20.9%**. [PDF](http://papers.nips.cc/paper/6612-dual-agent-gans-for-photorealistic-and-identity-preserving-profile-face-synthesis.pdf), [Full version](https://www.researchgate.net/publication/320223416_Dual-Agent_GANs_for_Photorealistic_and_Identity_Preserving_Profile_Face_Synthesis).
 
 + **Abstract:** Synthesizing realistic profile faces is promising for more efficiently training deep pose-invariant models for large-scale unconstrained face recognition, by populating samples with extreme poses and avoiding tedious annotations. However, learning from synthetic faces may not achieve the desired performance due to the discrepancy between distributions of the synthetic and real face images. To narrow this gap, we propose a Dual-Agent Generative Adversarial Network (DA-GAN) model, which can improve the realism of a face simulator's output using unlabeled real faces, while preserving the identity information during the realism refinement. The dual agents are specifically designed for distinguishing real v.s. fake and identities simultaneously. In particular, we employ an off-the-shelf 3D face model as a simulator to generate profile face images with varying poses. DA-GAN leverages a fully convolutional network as the generator to generate high-resolution images and an auto-encoder as the discriminator with the dual agents. Besides the novel architecture, we make several key modifications to the standard GAN to preserve pose and texture, preserve identity and stabilize training process: (i) a pose perception loss; (ii) an identity perception loss; (iii) an adversarial loss with a boundary equilibrium regularization term. Experimental results show that DA-GAN not only presents compelling perceptual results but also significantly outperforms state-of-the-arts on the large-scale and challenging NIST IJB-A unconstrained face recognition benchmark. In addition, the proposed DA-GAN is also promising as a new approach for solving generic transfer learning problems more effectively. DA-GAN is the foundation of our submissions to NIST IJB-A 2017 face recognition competitions, where we won the 1st places on the tracks of verification and identification.
