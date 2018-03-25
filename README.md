@@ -76,7 +76,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 ## Hobbies:
 
-Photography, Travel, Figure collection (Saint Seiya, Mazinger and so on), LEGO and Cooking.
+Photography, Travel, Figure collection (Saint Seiya, Mazinger and MB Gundam so on), LEGO and Cooking.
 
 ## Contact:
 
