@@ -62,7 +62,9 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 ## Work Experience:
 
-* 09/2015 - Present: Research Engineer of Panasonic R&D Center Singapore, Singapore.
+* 03/2018 - Present: Senior Research Engineer of Panasonic R&D Center Singapore, Singapore.
+
+* 09/2015 - 03/2018: Research Engineer of Panasonic R&D Center Singapore, Singapore.
 
 * 05/2015 - 09/2015: 2012 Labs, MV OSS Technology Development Department in HuaWei Technologies Co., LTD.
 
