@@ -9,7 +9,7 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## News and Activities:
 
-**Apr 2018:** One paper is accepted by ***IJCAI 2018***.
+**Apr 2018:** One [paper](https://www.researchgate.net/publication/324557770_3D-Aided_Deep_Pose-Invariant_Face_Recognition) is accepted by ***IJCAI 2018***.
 
 **Apr 2018:** One paper is accepted by ***CVPR 2018 Workshop of NVIDIA AI City Challenge***.
 
