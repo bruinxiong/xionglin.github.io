@@ -9,6 +9,8 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## News and Activities:
 
+**May 2018:** We release the evaluation [codes](https://github.com/bruinxiong/Evaluation_IJBA) for IJB-A with open and close protocols. Anybody can reproduce our results based on single ResNext 152 model.
+
 **Apr 2018:** One [paper](https://www.researchgate.net/publication/324557770_3D-Aided_Deep_Pose-Invariant_Face_Recognition) is accepted by ***IJCAI 2018***.
 
 **Apr 2018:** One paper is accepted by ***CVPR 2018 Workshop of NVIDIA AI City Challenge***.
