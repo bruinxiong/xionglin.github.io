@@ -13,7 +13,7 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 **Apr 2018:** One [paper](https://www.researchgate.net/publication/324557770_3D-Aided_Deep_Pose-Invariant_Face_Recognition) is accepted by ***IJCAI 2018***.
 
-**Apr 2018:** One paper is accepted by ***CVPR 2018 Workshop of NVIDIA AI City Challenge***.
+**Apr 2018:** One [paper](https://www.researchgate.net/publication/324746337_Dual-Mode_Vehicle_Motion_Pattern_Learning_for_High_Performance_Road_Traffic_Anomaly_Detection) is accepted by ***CVPR 2018 Workshop of NVIDIA AI City Challenge***.
 
 **Feb 2018:** One [paper](https://www.researchgate.net/publication/323446132_Towards_Pose_Invariant_Face_Recognition_in_the_Wild) is accepted by ***CVPR 2018***.
 
