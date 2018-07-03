@@ -9,6 +9,10 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## News and Activities:
 
+**Jul 2018:** One paper titled with **3D-Aided Dual-Agent GANs for Unconstrained Face Recognition** is accepted by **TPAMI**.
+
+**Jun 2018:** We submit our first API submission to NIST FRVT 1:1 Verification, the leaderboard can be found in [here](https://www.nist.gov/programs-projects/face-recognition-vendor-test-frvt-ongoing). We will continue to improve our model in the future, especially for WILD Setting. 
+
 **May 2018:** We release the evaluation [codes](https://github.com/bruinxiong/Evaluation_IJBA) for **IJB-A with open and close protocols**. Anybody can reproduce our results based on single ResNext 152 model.
 
 **Apr 2018:** One [paper](https://www.researchgate.net/publication/324557770_3D-Aided_Deep_Pose-Invariant_Face_Recognition) is accepted by ***IJCAI 2018***.
@@ -17,7 +21,7 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 **Feb 2018:** One [paper](https://www.researchgate.net/publication/323446132_Towards_Pose_Invariant_Face_Recognition_in_the_Wild) is accepted by ***CVPR 2018***.
 
-**Feb 2018:** Panasonic releases a ***[news,Japanese,](http://news.panasonic.com/jp/press/data/2018/02/jn180220-1/jn180220-1.html)[English](http://news.panasonic.com/global/press/data/2018/02/en180220-3/en180220-3.html?utm_source=domo&utm_medium=webpush&utm_campaign=panasonic-newsroom-global_20180220&utm_content=20180220-1)*** for a pre-release of new product integrated with our face recognition algorithm. ***[News on Youtube](https://www.youtube.com/watch?v=SOTVU3f0xNo&t=9s)***
+**Feb 2018:** Panasonic releases a ***[news,Japanese,](http://news.panasonic.com/jp/press/data/2018/02/jn180220-1/jn180220-1.html)[English](http://news.panasonic.com/global/press/data/2018/02/en180220-3/en180220-3.html?utm_source=domo&utm_medium=webpush&utm_campaign=panasonic-newsroom-global_20180220&utm_content=20180220-1)*** for a pre-release of new product integrated with our face recognition algorithm. ***[News on Youtube 1](https://www.youtube.com/watch?v=SOTVU3f0xNo&t=9s)***,***[News on Youtube 2](https://www.youtube.com/watch?v=Z5vxhhM0JGQx)*** and ***[News on Youtube 3](https://www.youtube.com/watch?v=J_-iRx7z1qQ)***. 
 
 **Feb 2018:** Our method has achieved ***TAR = 0.959 @ FAR = 0.0001*** for 1:1 verification and ***TPIR = 0.946 @ FPIR = 0.01*** for 1:N open-protocol identification on IJB-A. (***Top 1 performance*** in current state-of-the-art methods).
 
@@ -33,7 +37,9 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## Selected Publication:
 
-* Jian Zhao<sup>+</sup>, **Lin Xiong<sup>+</sup>**, Yu Cheng<sup>+</sup>, Jianshu Li, Li Zhou, Yan Xu, Yi Cheng, Karlekar Jayashree, Sugiri Pranata, Shengmei Shen, Junliang Xing, Shuicheng Yan and Jiashi Feng, **"3D-Aided Deep Pose-Invariant Face Recognition"**, in Proceedings of the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence **(IJCAI-ECAI)**, Stockholm, Sweden, July 13-19, 2018. **Acceptance rate is 20.46% (710/3470)**. **(<sup>+</sup> Equal contribution)**. [PDF](https://www.researchgate.net/publication/324557770_3D-Aided_Deep_Pose-Invariant_Face_Recognition).
+* Jian Zhao<sup>+</sup>, **Lin Xiong<sup>+</sup>**, Jianshu Li, Shuicheng Yan and Jiashi Feng, **"3D-Aided Dual-Agent GANs for Unconstrained Face Recognition"**, is accepted by **TPAMI**. **(<sup>+</sup> Equal contribution)**.
+
+* Jian Zhao<sup>+</sup>, **Lin Xiong<sup>+</sup>**, Yu Cheng<sup>+</sup>, Jianshu Li, Li Zhou, Yan Xu, Yi Cheng, Karlekar Jayashree, Sugiri Pranata, Shengmei Shen, Junliang Xing, Shuicheng Yan and Jiashi Feng, **"3D-Aided Deep Pose-Invariant Face Recognition"**, in Proceedings of the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence **(IJCAI-ECAI)**, Stockholm, Sweden, July 13-19, 2018. **Oral and Acceptance rate is 20.46% (710/3470)**. **(<sup>+</sup> Equal contribution)**. [PDF](https://www.researchgate.net/publication/324557770_3D-Aided_Deep_Pose-Invariant_Face_Recognition).
 
 + **Abstract:** Learning from synthetic faces, though perhaps appealing for high data efficiency, may not bring satisfactory performance due to the distribution discrepancy of the synthetic and real face images. To mitigate this gap, we propose a 3D-Aided Deep Pose-Invariant Face Recognition Model (3D-PIM), which automatically recovers realistic frontal faces from arbitrary poses through a 3D face model in a novel way. Specifically, 3D-PIM incorporates a simulator with the aid of a 3D Morphable Model (3D MM) to obtain shape and appearance prior for accelerating face normalization learning, requiring less training data. It further leverages a global-local Generative Adversarial Network (GAN) with multiple critical improvements as a refiner to enhance the realism of both global structures and local details of the face simulator’s output using unlabelled real data only, while preserving the identity information. Qualitative and quantitative experiments on both controlled and in-the-wild benchmarks clearly demonstrate superiority of the proposed model over state-of-the-arts.
 
