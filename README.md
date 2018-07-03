@@ -11,7 +11,7 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 **Jul 2018:** One paper titled with **3D-Aided Dual-Agent GANs for Unconstrained Face Recognition** is accepted by **TPAMI**.
 
-**Jun 2018:** We submit our first API submission to NIST FRVT 1:1 Verification, the leaderboard can be found in [here](https://www.nist.gov/programs-projects/face-recognition-vendor-test-frvt-ongoing). We will continue to improve our model in the future, especially for WILD Setting. 
+**Jun 2018:** We submit our first API submission to **NIST FRVT 1:1 Verification**, the leaderboard can be found in [here](https://www.nist.gov/programs-projects/face-recognition-vendor-test-frvt-ongoing). We will continue to improve our model in the future, especially for WILD Setting. 
 
 **May 2018:** We release the evaluation [codes](https://github.com/bruinxiong/Evaluation_IJBA) for **IJB-A with open and close protocols**. Anybody can reproduce our results based on single ResNext 152 model.
 
@@ -85,6 +85,8 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 * 05/2015 - 09/2015: 2012 Labs, MV OSS Technology Development Department in HuaWei Technologies Co., LTD.
 
 ## Awards:
+
+* Achieved **[First Place Award](https://www.aicitychallenge.org/?page_id=13)** on Track2: Anomaly Detection on NVIDIA AI CITY CHALLENGE from **CVPR 2018 workshop**. (Team 15).
 
 * Achieved **[Gold prize](https://github.com/bruinxiong/xionglin.github.io/blob/master/Gold_Award.jpg)** award in Panasonic Technology Symposium **(PTS 2017)** held by Headquarter of Panasonic, Osaka. **(No.1 of 21 competitors, 4.8%)**
 
