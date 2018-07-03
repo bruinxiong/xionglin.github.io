@@ -11,7 +11,7 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 **Jul 2018:** One paper titled with **3D-Aided Dual-Agent GANs for Unconstrained Face Recognition** is accepted by **TPAMI**.
 
-**Jun 2018:** We submit our first API submission to **NIST FRVT 1:1 Verification**, the leaderboard can be found in [here](https://www.nist.gov/programs-projects/face-recognition-vendor-test-frvt-ongoing). We will continue to improve our model in the future, especially for WILD Setting. 
+**Jun 2018:** We submit our first API (psl) submission to **NIST FRVT 1:1 Verification**, the leaderboard can be found in [here](https://www.nist.gov/programs-projects/face-recognition-vendor-test-frvt-ongoing). We will continue to improve our model in the future, especially for WILD Setting. 
 
 **May 2018:** We release the evaluation [codes](https://github.com/bruinxiong/Evaluation_IJBA) for **IJB-A with open and close protocols**. Anybody can reproduce our results based on single ResNext 152 model.
 
