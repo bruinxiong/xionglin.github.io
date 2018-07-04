@@ -91,7 +91,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 ## Awards:
 
-* Achieved **[First Place Award](https://www.aicitychallenge.org/?page_id=13)** on Track2: Anomaly Detection on NVIDIA AI CITY CHALLENGE from **CVPR 2018 workshop**. (Team 15).
+* Achieved **[First Place Award](https://www.aicitychallenge.org/?page_id=13)** on Track2: Anomaly Detection on NVIDIA AI CITY CHALLENGE from **CVPR 2018 workshop**. ([Team 15](https://github.com/bruinxiong/xionglin.github.io/blob/master/NVIDIA_AI_CITY_CHALLENGE.jpg)).
 
 * Achieved **[Gold prize](https://github.com/bruinxiong/xionglin.github.io/blob/master/Gold_Award.jpg)** award in Panasonic Technology Symposium **(PTS 2017)** held by Headquarter of Panasonic, Osaka. **(No.1 of 21 competitors, 4.8%)**
 
