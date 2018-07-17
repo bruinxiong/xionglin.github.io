@@ -1,7 +1,7 @@
 # Bio of Xiong Lin (熊 霖)
 ![](XiongLin_NIPS2017.jpeg)
 
-I'm a senior research engineer of Learning & Vision, Core Technology Group, Panasonic R&D Center Singapore (PRDCSG). I received Ph.D degree of pattern recognition & intelligent system from school of electronic engineering, Xidian University. My Master's superviser is <font color=#0000ff>**Prof. ZHANG li**</font>[**<sup>1</sup>**](https://www.researchgate.net/profile/Li_Zhang80/info)<sup>,</sup>[**<sup>2</sup>**](http://web.suda.edu.cn/zhangliml/index.html) and Ph.D superviser is [**<font color=#0000ff>Prof. JIAO licheng</font>**](http://web.xidian.edu.cn/lchjiao/indexen.html). I am working on developing deep neural network models and algorithms for face detection, face recognition, image generation and instance segmentation.
+I'm a senior research engineer of Learning & Vision, Core Technology Group, Panasonic R&D Center Singapore (PRDCSG). I received Ph.D degree of pattern recognition & intelligent system from school of electronic engineering, Xidian University. My Master's superviser is **Prof. ZHANG li**[**<sup>1</sup>**](https://www.researchgate.net/profile/Li_Zhang80/info)<sup>,</sup>[**<sup>2</sup>**](http://web.suda.edu.cn/zhangliml/index.html) and Ph.D superviser is [**Prof. JIAO licheng**](http://web.xidian.edu.cn/lchjiao/indexen.html). I am working on developing deep neural network models and algorithms for face detection, face recognition, image generation and instance segmentation.
 
 ## Research Interests:
 
