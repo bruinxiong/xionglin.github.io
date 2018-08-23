@@ -9,7 +9,7 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## News and Activities:
 
-**Jul 2018:** One paper titled with **3D-Aided Dual-Agent GANs for Unconstrained Face Recognition** is accepted by **TPAMI**.
+**Jul 2018:** One [paper](https://github.com/bruinxiong/xionglin.github.io/blob/master/3D-Aided_Dual-Agent_GANs_for_Unconstrained_Face_Recognition_TPAMI_2018.pdf) titled with **3D-Aided Dual-Agent GANs for Unconstrained Face Recognition** is accepted by **TPAMI**.
 
 **Jun 2018:** We submit our first API (psl) submission to **NIST FRVT 1:1 Verification**, the leaderboard can be found in [here](https://www.nist.gov/programs-projects/face-recognition-vendor-test-frvt-ongoing). We will continue to improve our model in the future, especially for WILD Setting. 
 
@@ -37,7 +37,7 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## Selected Publication:
 
-* Jian Zhao<sup>+</sup>, **Lin Xiong<sup>+</sup>**, Jianshu Li, Shuicheng Yan and Jiashi Feng, **"3D-Aided Dual-Agent GANs for Unconstrained Face Recognition"**, is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, vol. xx, no. x, pp. xx, 2018. **IF 9.455 (<sup>+</sup> Equal contribution)**.
+* Jian Zhao<sup>+</sup>, **Lin Xiong<sup>+</sup>**, Jianshu Li, Shuicheng Yan and Jiashi Feng, **"3D-Aided Dual-Agent GANs for Unconstrained Face Recognition"**, is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, vol. xx, no. x, pp. xx, 2018. **IF 9.455 (<sup>+</sup> Equal contribution)**.[PDF](https://github.com/bruinxiong/xionglin.github.io/blob/master/3D-Aided_Dual-Agent_GANs_for_Unconstrained_Face_Recognition_TPAMI_2018.pdf)
 
 + **Abstract:** Synthesizing realistic profile faces is promising for more efficiently training deep pose-invariant models for large-scale unconstrained face recognition, by populating samples with extreme poses and avoiding tedious annotations. However, learning from
 synthetic faces may not achieve the desired performance due to the discrepancy between distributions of the synthetic and real face
