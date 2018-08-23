@@ -83,7 +83,9 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 ## Work Experience:
 
-* 03/2018 - Present: Senior Research Engineer of Panasonic R&D Center Singapore, Singapore.
+* 10/2018 - Present: 
+
+* 03/2018 - 09/2018: Senior Research Engineer of Panasonic R&D Center Singapore, Singapore.
 
 * 09/2015 - 03/2018: Research Engineer of Panasonic R&D Center Singapore, Singapore.
 
