@@ -35,7 +35,7 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 **Apr 2017:** We proposed Transferred Deep Feature Fusion (TDFF) for face recogntion and obtained No.1 place on all tracks of National Institute of Standards and Technology (NIST) IARPA Janus Benchmark A (IJB-A) Unconstrained Face Verification and Identification Challenge. Official reports can be found in here: [Identification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_1N_report.pdf) and [Verification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_11_report.pdf) 
 
-## Selected Publication:
+## Selected Publications:
 
 * Jian Zhao<sup>+</sup>, **Lin Xiong<sup>+</sup>**, Jianshu Li, Shuicheng Yan and Jiashi Feng, **"3D-Aided Dual-Agent GANs for Unconstrained Face Recognition"**, is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, vol. xx, no. x, pp. xx, 2018. **IF 9.455 (<sup>+</sup> Equal contribution)**.[PDF](https://github.com/bruinxiong/xionglin.github.io/blob/master/3D-Aided_Dual-Agent_GANs_for_Unconstrained_Face_Recognition_TPAMI_2018.pdf).
 
@@ -81,7 +81,7 @@ and in-the-wild benchmarks demonstrate the superiority of the proposed model ove
 
 Full publication can be found in my [researchgate](https://www.researchgate.net/profile/Lin_Xiong4/contributions) and [googlescholar](https://scholar.google.com.sg/citations?user=Auze-lcAAAAJ&hl=en).
 
-## Work Experience:
+## Work Experiences:
 
 * 10/2018 - Present: 
 
