@@ -101,6 +101,10 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 * Achieved the **[First Place Award](https://github.com/bruinxiong/xionglin.github.io/blob/master/Award_MS.pdf)** on Track1: Recognizing One Million Celebrities(with external Data) from **ICCV 2017 workshop**.
 
+## CV:
+
+More detailed information can be found in my **[full_CV](https://github.com/bruinxiong/xionglin.github.io/blob/master/XiongLinCV_full_v4.pdf)**.
+
 ## Hobbies:
 
 Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/master/Shin_Yokohama.jpg), Figures collection ([Saint_Seiya](https://github.com/bruinxiong/xionglin.github.io/blob/master/Saint_Seiya.jpg), [Mazinger](https://github.com/bruinxiong/xionglin.github.io/blob/master/Mazinger.jpg) and [MB_Gundam](https://github.com/bruinxiong/xionglin.github.io/blob/master/MB_Gundam.jpg) so on), LEGO and Cooking.
