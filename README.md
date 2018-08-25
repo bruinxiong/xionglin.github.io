@@ -83,7 +83,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 ## Work Experiences:
 
-* 10/2018 - Present: 
+* 10/2018 - : New Job in Silicon Valley, San Francisco, US.
 
 * 03/2018 - 09/2018: Senior Research Engineer of Panasonic R&D Center Singapore, Singapore.
 
