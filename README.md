@@ -83,7 +83,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 ## Work Experiences:
 
-* 10/2018 - Now: AI Lab Research Scientist in Silicon Valley, San Francisco, US.
+* 10/2018 - Now:     Research Scientist of JD Finance AI Lab in Silicon Valley, San Francisco, US.
 
 * 03/2018 - 09/2018: Senior Research Engineer of Panasonic R&D Center Singapore, Singapore.
 
