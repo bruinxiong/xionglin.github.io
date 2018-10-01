@@ -1,7 +1,7 @@
 # Bio of Xiong Lin (熊 霖)
 ![](XiongLin_NIPS2017.jpeg)
 
-I'm a senior research engineer of Learning & Vision, Core Technology Group, Panasonic R&D Center Singapore (PRDCSG). I received Ph.D degree of pattern recognition & intelligent system from school of electronic engineering, Xidian University. My Master's superviser is **Prof. ZHANG li[<sup>1</sup>](https://www.researchgate.net/profile/Li_Zhang80/info)<sup>,</sup>[<sup>2</sup>](http://web.suda.edu.cn/zhangliml/index.html)** and Ph.D superviser is **[Prof. JIAO licheng](http://web.xidian.edu.cn/lchjiao/indexen.html)**. I am working on developing deep neural network models and algorithms for face detection, face recognition, image generation and instance segmentation.
+I'm a research scientist of JD Finance AI Lab in silicon valley, CA, US. Before that, I was a senior research engineer of Learning & Vision, Core Technology Group, Panasonic R&D Center Singapore (PRDCSG). I received Ph.D degree of pattern recognition & intelligent system from school of electronic engineering, Xidian University. My Master's superviser is **Prof. ZHANG li[<sup>1</sup>](https://www.researchgate.net/profile/Li_Zhang80/info)<sup>,</sup>[<sup>2</sup>](http://web.suda.edu.cn/zhangliml/index.html)** and Ph.D superviser is **[Prof. JIAO licheng](http://web.xidian.edu.cn/lchjiao/indexen.html)**. I am working on developing deep neural network models and algorithms for face detection, face recognition, image generation and instance segmentation.
 
 ## Research Interests:
 
@@ -85,7 +85,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 * 10/2018 - Now:     Research Scientist of JD Finance AI Lab in Silicon Valley, San Francisco, US.
 
-* 03/2018 - 09/2018: Senior Research Engineer of Panasonic R&D Center Singapore, Singapore.
+* 03/2018 - 10/2018: Senior Research Engineer of Panasonic R&D Center Singapore, Singapore.
 
 * 09/2015 - 03/2018: Research Engineer of Panasonic R&D Center Singapore, Singapore.
 
@@ -111,10 +111,10 @@ Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/mast
 
 ## Contact:
 
-**Email:** lin.xiong@sg.panasonic.com, bruinxiong@me.com, bruinxiongmac@gmail.com
+**Email:** bruinxiong@me.com, bruinxiongmac@gmail.com
 
-**Phone:** +65 83752875
+**Phone:** +86 15399028270, +65 83752875 
 
 **WeChat:** bruinxiongmac
 
-**Address:** 202 Bedok South Avenue 1 #02-11, Panasonic R&D Center Singapore, Singapore, 469332 
+**Address:** 675E Middlefield Rd Mountain View CA 94043, JD Finance AI Lab
