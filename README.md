@@ -1,7 +1,7 @@
 # Bio of Xiong Lin (熊 霖)
 ![](XiongLin_NIPS2017.jpeg)
 
-I'm a research scientist of JD Finance AI Lab in silicon valley, CA, US. Before joining JD Finance AI Lab, I was a senior research engineer of Learning & Vision, Core Technology Group, Panasonic R&D Center Singapore (PRDCSG). I received Ph.D degree of pattern recognition & intelligent system from school of electronic engineering, Xidian University. My Master's superviser is **Prof. ZHANG li[<sup>1</sup>](https://www.researchgate.net/profile/Li_Zhang80/info)<sup>,</sup>[<sup>2</sup>](http://web.suda.edu.cn/zhangliml/index.html)** and Ph.D superviser is **[Prof. JIAO licheng](http://web.xidian.edu.cn/lchjiao/indexen.html)**. I am working on developing deep neural network models and algorithms for face detection, face recognition, image generation and instance segmentation.
+I'm a research scientist of JD Finance AI Lab in Silicon Valley, CA, US. Before joining JD Finance AI Lab, I was a senior research engineer of Learning & Vision, Core Technology Group, Panasonic R&D Center Singapore (PRDCSG). I received Ph.D degree of pattern recognition & intelligent system from school of electronic engineering, Xidian University. My Master's superviser is **Prof. ZHANG li[<sup>1</sup>](https://www.researchgate.net/profile/Li_Zhang80/info)<sup>,</sup>[<sup>2</sup>](http://web.suda.edu.cn/zhangliml/index.html)** and Ph.D superviser is **[Prof. JIAO licheng](http://web.xidian.edu.cn/lchjiao/indexen.html)**. I am working on developing deep neural network models and algorithms for face detection, face recognition, image generation and instance segmentation.
 
 ## Research Interests:
 
@@ -95,7 +95,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 * Achieved **[First Place Award](https://www.aicitychallenge.org/?page_id=13)** on Track2: Anomaly Detection on NVIDIA AI CITY CHALLENGE from **CVPR 2018 workshop**. (**[Team 15](https://github.com/bruinxiong/xionglin.github.io/blob/master/NVIDIA_AI_CITY_CHALLENGE.jpg)**).
 
-* Achieved **[Gold prize](https://github.com/bruinxiong/xionglin.github.io/blob/master/Gold_Award.jpg)** award in Panasonic Technology Symposium **(PTS 2017)** held by Headquarter of Panasonic, Osaka. **(No.1 of 21 competitors, 4.8%)**
+* Achieved **Gold prize[<sup>1</sup>](https://github.com/bruinxiong/xionglin.github.io/blob/master/Gold_Award.jpg)**<sup>,</sup>[<sup>2</sup>]() award in Panasonic Technology Symposium **(PTS 2017)** held by Headquarter of Panasonic, Osaka. **(No.1 of 21 competitors, 4.8%)**
 
 * Achieved the **World's most accurate** Face Recognition based on the IJB-A dataset provided by NIST and obtained an **[award prize](https://github.com/bruinxiong/xionglin.github.io/blob/master/Award_Panasonic_SG.pdf)** from Panasonic R&D Center Singapore, 2017
 
