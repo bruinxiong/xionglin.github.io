@@ -95,7 +95,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 * Achieved **[First Place Award](https://www.aicitychallenge.org/?page_id=13)** on Track2: Anomaly Detection on NVIDIA AI CITY CHALLENGE from **CVPR 2018 workshop**. (**[Team 15](https://github.com/bruinxiong/xionglin.github.io/blob/master/NVIDIA_AI_CITY_CHALLENGE.jpg)**).
 
-* Achieved **Gold prize[<sup>1</sup>](https://github.com/bruinxiong/xionglin.github.io/blob/master/Gold_Award.jpg)**<sup>,</sup>[<sup>2</sup>]() award in Panasonic Technology Symposium **(PTS 2017)** held by Headquarter of Panasonic, Osaka. **(No.1 of 21 competitors, 4.8%)**
+* Achieved **Gold prize[<sup>1</sup>](https://github.com/bruinxiong/xionglin.github.io/blob/master/Gold_Award.jpg)<sup>,</sup>[<sup>2</sup>](https://github.com/bruinxiong/xionglin.github.io/blob/master/PTS_2017_Gold_award_CTO.jpg)** award in Panasonic Technology Symposium **(PTS 2017)** held by Headquarter of Panasonic, Osaka. **(No.1 of 21 competitors, 4.8%)**
 
 * Achieved the **World's most accurate** Face Recognition based on the IJB-A dataset provided by NIST and obtained an **[award prize](https://github.com/bruinxiong/xionglin.github.io/blob/master/Award_Panasonic_SG.pdf)** from Panasonic R&D Center Singapore, 2017
 
