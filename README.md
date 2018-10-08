@@ -84,6 +84,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 ## Reviewer:
 * **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, IF 7.982 (2017)  
 * **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, IF 3.588 (2017)  
+* 24th International Conference on Pattern Recognition (ICPR 2018)  
 
 ## Work Experiences:
 
