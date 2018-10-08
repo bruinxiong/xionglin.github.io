@@ -81,6 +81,10 @@ and in-the-wild benchmarks demonstrate the superiority of the proposed model ove
 
 Full publication can be found in my [researchgate](https://www.researchgate.net/profile/Lin_Xiong4/contributions) and [googlescholar](https://scholar.google.com.sg/citations?user=Auze-lcAAAAJ&hl=en).
 
+## Reviewer:
+* **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, IF 7.982 (2017)  
+* **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, IF 3.588 (2017)  
+
 ## Work Experiences:
 
 * 10/2018 - Now:     Research Scientist of JD Finance AI Lab in Silicon Valley, San Francisco, US.
