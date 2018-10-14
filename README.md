@@ -118,7 +118,7 @@ Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/mast
 
 **Email:** bruinxiong@me.com, bruinxiongmac@gmail.com
 
-**Phone:** +86 15399028270, +65 83752875 
+**Phone:** +1 669 454 6698, +86 15399028270, +65 83752875 
 
 **WeChat:** bruinxiongmac
 
