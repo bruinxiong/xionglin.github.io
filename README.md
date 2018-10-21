@@ -116,7 +116,7 @@ Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/mast
 
 ## Contact:
 
-**Email:** bruinxiong@me.com, bruinxiongmac@gmail.com
+**Email:** Lin.Xiong@jd.com, bruinxiong@me.com, bruinxiongmac@gmail.com
 
 **Phone:** +1 669 454 6698, +86 15399028270, +65 83752875 
 
