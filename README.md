@@ -122,4 +122,4 @@ Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/mast
 
 **WeChat:** bruinxiongmac
 
-**Address:** 675E Middlefield Rd Mountain View CA 94043, JD Finance AI Lab
+**Address:** 675E Middlefield Rd, Mountain View CA 94043, JD Finance AI Lab
