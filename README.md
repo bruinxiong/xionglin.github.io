@@ -8,6 +8,9 @@ I'm a research scientist of JD Finance AI Lab in Silicon Valley, CA, US. Before 
 Unconstrained/large-scale face recognition, deep learning architecture engineering, person re-identification, transfer learning, Riemannian manifold optimization, sparse and low-rank matrix factorization.
 
 ## News and Activities:
+**Nov 2018:** One [paper](https://arxiv.org/pdf/1809.00338.pdf) titled with **Look Across Elapse: Disentangled Representation Learning and
+Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition** is accepted by ***AAAI 2019***.
+
 **Aug 2018:** Panasonic releases a news for new facial recognition system ***["FacePRO"](https://www.youtube.com/watch?v=ce1LSxZCK0M)*** integrated with our face recognition algorithm.
 
 **Jul 2018:** One [paper](https://github.com/bruinxiong/xionglin.github.io/blob/master/3D-Aided_Dual-Agent_GANs_for_Unconstrained_Face_Recognition_TPAMI_2018.pdf) titled with **3D-Aided Dual-Agent GANs for Unconstrained Face Recognition** is accepted by **TPAMI**.
