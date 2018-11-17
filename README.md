@@ -38,7 +38,7 @@ Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition** is 
 
 **May 2017:** One [paper](http://papers.nips.cc/paper/6612-dual-agent-gans-for-photorealistic-and-identity-preserving-profile-face-synthesis.pdf) is accepted by ***NIPS 2017***.
 
-**May 2017:** Panasonic released a [news](http://news.panasonic.com/jp/press/data/2017/05/jn170510-5/jn170510-5.html) to introduce our project and report our archievement on IJB-A Face Verification and Identification Challenge. Moreover, [CNET Japan](https://japan.cnet.com/article/35100942/) also picked up the story.
+**May 2017:** Panasonic released a **[news](http://news.panasonic.com/jp/press/data/2017/05/jn170510-5/jn170510-5.html)** to introduce our project and report our archievement on IJB-A Face Verification and Identification Challenge. Moreover, **[CNET Japan](https://japan.cnet.com/article/35100942/)** also picked up the story.
 
 **Apr 2017:** We proposed Transferred Deep Feature Fusion (TDFF) for face recogntion and obtained **No.1** place on all tracks of National Institute of Standards and Technology (**NIST**) IARPA Janus Benchmark A (
 **IJB-A**) Unconstrained Face Verification and Identification Challenge. Official reports can be found in here: [Identification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_1N_report.pdf) and [Verification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_11_report.pdf) 
