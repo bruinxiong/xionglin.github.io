@@ -9,7 +9,7 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## News and Activities:
 
-**Nov 2018:** My previous employer, **Panasonic R&D Center Singapore**, just achieves the **[No.6](https://github.com/bruinxiong/xionglin.github.io/blob/master/NIST_PSL_01.jpg)** in Wild Setting of fierce **NIST Face Recognition Vendor Test (FRVT) 1:1 Verification**. It proves that our previous strategies for wild setting are shown to be correct. This score is the same as the No.1 of last year. Many competitors get large improvement. It is a fiercely competitive battle field for face recognition. Congratulations, my friends and the previous boss. More information can be found in offical **[report](https://www.nist.gov/sites/default/files/documents/2018/11/16/frvt_report_2018_11_16.pdf)**. 
+**Nov 2018:** My previous employer, **Panasonic R&D Center Singapore**, just achieves the **[No.6](https://github.com/bruinxiong/xionglin.github.io/blob/master/NIST_PSL_01.jpg)** in Wild Setting of fierce **NIST Face Recognition Vendor Test (FRVT) 1:1 Verification**. It proves that our previous strategies for wild setting are shown to be correct. This score is the same as the No.1 of last year. Many competitors get large improvement. It is a fiercely competitive battle field of face recognition. Congratulations, my friends and the previous boss. More information can be found in offical **[report](https://www.nist.gov/sites/default/files/documents/2018/11/16/frvt_report_2018_11_16.pdf)**. 
 
 **Nov 2018:** One [paper](https://arxiv.org/pdf/1809.00338.pdf) titled with **Look Across Elapse: Disentangled Representation Learning and
 Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition** is accepted by ***AAAI 2019***.
