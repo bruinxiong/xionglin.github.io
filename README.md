@@ -92,8 +92,8 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 ## Reviewer:
 * **IEEE International Conference on Computer Vision (ICCV'2019)**
 * **IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'2019)**
-* **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, IF 7.982 (2017)  
-* **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, IF 3.588 (2017)  
+* **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, IF 7.982 (2017), 2018 -
+* **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, IF 3.588 (2017), 2018 -  
 * 24th International Conference on Pattern Recognition (ICPR 2018)  
 
 ## Work Experiences:
