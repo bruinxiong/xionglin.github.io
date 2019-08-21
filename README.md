@@ -9,6 +9,8 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## News and Activities:
 
+**Aug 2019:** To be a **member of the Program Committee (PC)** for **AAAI 2020**, the 34th AAAI Conference on Artificial Intelligence, Feb 7-12 in New York, NY, USA.
+
 **Nov 2018:** My former employer, **Panasonic R&D Center Singapore**, has just achieved the **[No.6](https://github.com/bruinxiong/xionglin.github.io/blob/master/NIST_PSL_01.jpg)** in Wild Setting of fierce **NIST Face Recognition Vendor Test (FRVT) 1:1 Verification**. It proves that our previous strategies for wild setting are shown to be correct. This score is the same as the No.1 of three months ago. Many competitors get large improvement. It is a fiercely competitive battle field of face recognition. Congratulations, my friends and the former boss **[Ms. Shen](https://www.linkedin.com/in/jane-shen-b93a266b/?originalSubdomain=sg)**. More information can be found in the offical **[report](https://www.nist.gov/sites/default/files/documents/2019/01/29/frvt_report_2019_01_29.pdf)**. 
 
 **Nov 2018:** One [paper](https://arxiv.org/pdf/1809.00338.pdf) titled with **Look Across Elapse: Disentangled Representation Learning and
