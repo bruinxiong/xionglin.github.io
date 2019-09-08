@@ -47,7 +47,7 @@ Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition** is 
 
 ## Selected Publications:
 
-* Jian Zhao<sup>+</sup>, **Lin Xiong<sup>+</sup>**, Jianshu Li, Shuicheng Yan and Jiashi Feng, **"3D-Aided Dual-Agent GANs for Unconstrained Face Recognition"**, is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, vol. xx, no. x, pp. xx, 2018. **IF 17.730 (2018) (<sup>+</sup> Equal contribution)**.[PDF](https://github.com/bruinxiong/xionglin.github.io/blob/master/3D-Aided_Dual-Agent_GANs_for_Unconstrained_Face_Recognition_TPAMI_2018.pdf).
+* Jian Zhao<sup>+</sup>, **Lin Xiong<sup>+</sup>**, Jianshu Li, Shuicheng Yan and Jiashi Feng, **"3D-Aided Dual-Agent GANs for Unconstrained Face Recognition"**, is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, vol. 41, no. 10, pp. 2380-2394, 2019. **IF 17.730 (2018) (<sup>+</sup> Equal contribution)**.[PDF](https://github.com/bruinxiong/xionglin.github.io/blob/master/3D-Aided_Dual-Agent_GANs_for_Unconstrained_Face_Recognition_TPAMI_2018.pdf).
 
 + **Abstract:** Synthesizing realistic profile faces is promising for more efficiently training deep pose-invariant models for large-scale unconstrained face recognition, by populating samples with extreme poses and avoiding tedious annotations. However, learning from
 synthetic faces may not achieve the desired performance due to the discrepancy between distributions of the synthetic and real face
