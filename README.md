@@ -9,6 +9,8 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## News and Activities:
 
+**Oct 2019:** One [paper]() titled with **Recognizing Profile Faces by Imagining Frontal View** is accepted by **IJCV**
+
 **Aug 2019:** To be a **member of the Program Committee (PC)** for **AAAI 2020**, the 34th AAAI Conference on Artificial Intelligence, Feb 7-12 in New York, NY, USA.
 
 **Nov 2018:** My former employer, **Panasonic R&D Center Singapore**, has just achieved the **[No.6](https://github.com/bruinxiong/xionglin.github.io/blob/master/NIST_PSL_01.jpg)** in Wild Setting of fierce **NIST Face Recognition Vendor Test (FRVT) 1:1 Verification**. It proves that our previous strategies for wild setting are shown to be correct. This score is the same as the No.1 of three months ago. Many competitors get large improvement. It is a fiercely competitive battle field of face recognition. Congratulations, my friends and the former boss **[Ms. Shen](https://www.linkedin.com/in/jane-shen-b93a266b/?originalSubdomain=sg)**. More information can be found in the offical **[report](https://www.nist.gov/sites/default/files/documents/2019/01/29/frvt_report_2019_01_29.pdf)**. 
@@ -46,6 +48,12 @@ Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition** is 
 **IJB-A**) Unconstrained Face Verification and Identification Challenge. Official reports can be found in here: [Identification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_1N_report.pdf) and [Verification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_11_report.pdf) 
 
 ## Selected Publications:
+
+* Jian Zhao, Junliang Xing, **Lin Xiong**, Shuicheng Yan and Jiashi Feng, **"Recognizing Profile Faces by Imagining Frontal View"**, is accepted by International Journal of Computer Vision **(IJCV)** -Springer, vol. xx, no. xx, pp. xx-xx, 2019. **IF 6.071 (2018)**.
+
++ **Abstract:** Extreme pose variation is one of the key obstacles to accurate face recognition in practice. Compared with current techniques for pose-invariant face recognition, which either expect pose invariance from hand-crafted features or data-driven deep learning solutions, or first normalize profile face images to frontal pose before feature extraction, we argue that it is more desirable to perform both tasks jointly to allow them to benefit from each other. To this end, we propose a Pose-Invariant Model (PIM) for face recognition in the wild, with three distinct novelties. First, PIM is a novel and unified deep architecture, containing a Face
+Frontalization sub-Net (FFN) and a Discriminative Learning sub-Net (DLN), which are jointly learned from end to end. Second, FFN is a well-designed dual-pathGenerative Adversarial Network (GAN) which simultaneously perceives global structures and local details, incorporating an unsupervised crossdomain adversarial training and a “learning to learn” strategy using siamese discriminator with dynamic convolution for high-fidelity and identity-preserving frontal view synthesis. Third, DLN is a generic Convolutional Neural Network (CNN) for face recognition with our enforced cross-entropy optimization strategy for learning discriminative yet generalized
+feature representations with large intra-class affinity and inter-class separability. Qualitative and quantitative experiments on both controlled and in-the-wild benchmark datasets demonstrate the superiority of the proposed model over the state-of-the-arts. The complete source code, trained models and online demo of this work will be released to facilitate future research on pose-invariant face recognition in the wild.
 
 * Jian Zhao<sup>+</sup>, **Lin Xiong<sup>+</sup>**, Jianshu Li, Shuicheng Yan and Jiashi Feng, **"3D-Aided Dual-Agent GANs for Unconstrained Face Recognition"**, is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)**, vol. 41, no. 10, pp. 2380-2394, 2019. **IF 17.730 (2018) (<sup>+</sup> Equal contribution)**.[PDF](https://github.com/bruinxiong/xionglin.github.io/blob/master/3D-Aided_Dual-Agent_GANs_for_Unconstrained_Face_Recognition_TPAMI_2018.pdf).
 
