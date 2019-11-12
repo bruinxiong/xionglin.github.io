@@ -9,7 +9,7 @@ Unconstrained/large-scale face recognition, deep learning architecture engineeri
 
 ## News and Activities:
 
-**Oct 2019:** One [paper]() titled with **Recognizing Profile Faces by Imagining Frontal View** is accepted by **IJCV**.
+**Oct 2019:** One [paper](https://github.com/bruinxiong/xionglin.github.io/blob/master/Recognizing%20Profile%20Faces%20by%20Imagining%20Frontal%20View%20IJCV%202019.pdf) titled with **Recognizing Profile Faces by Imagining Frontal View** is accepted by **IJCV**.
 
 **Aug 2019:** To be a **member of the Program Committee (PC)** for **AAAI 2020**, the 34th AAAI Conference on Artificial Intelligence, Feb 7-12 in New York, NY, USA.
 
