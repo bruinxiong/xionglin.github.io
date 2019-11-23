@@ -100,6 +100,7 @@ and in-the-wild benchmarks demonstrate the superiority of the proposed model ove
 Full publication can be found in my [researchgate](https://www.researchgate.net/profile/Lin_Xiong4/contributions) and [googlescholar](https://scholar.google.com.sg/citations?user=Auze-lcAAAAJ&hl=en).
 
 ## Reviewer and Member:
+* **16th European Conference on Computer Vision (ECCV'2020)**
 * **34th AAAI Conference on Artificial Intelligence, Member of Program Committee (PC) for AAAI 2020**
 * **IEEE International Conference on Computer Vision (ICCV'2019)**
 * **IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'2019 ~ CVPR'2020)**
