@@ -146,4 +146,4 @@ Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/mast
 
 **WeChat:** bruinxiongmac
 
-**Address:** KeChuang 12th Street, Economic and Technological Development Zone (DaXing Zone), Beijng, China.
+**Address:** KeChuang 12th Street, Economic and Technological Development Zone (DaXing Zone), Beijing, China.
