@@ -1,4 +1,9 @@
 theme: jekyll-theme-cayman
 
+title: [Bio_of_Xiong_Lin]
+description: [Biography of Xiong Lin]
+
+# Download
+show_downloads: ["true"]
 # Google Analytics
-google_analytics: UA-156530865-1
+google_analytics: [UA-156530865-1]
