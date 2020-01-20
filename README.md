@@ -1,11 +1,11 @@
 # Bio of Xiong Lin (熊 霖)                                <img src="JDD_Logo.png" width="14%" height="10%" align='right' style='width:84px;height:60px'/>
 ![](XiongLin_NIPS2017.jpeg)
 
-I'm a research scientist of JD Digits (aka JD Finance) AI Lab in Silicon Valley, CA, US. Before joining JD Digits AI Lab, I was a senior research engineer of Learning & Vision, Core Technology Group, Panasonic R&D Center Singapore (PRDCSG). I received Ph.D degree of pattern recognition & intelligent system from school of electronic engineering, Xidian University. My Master's superviser is **Prof. ZHANG li[<sup>1</sup>](https://www.researchgate.net/profile/Li_Zhang80/info)<sup>,</sup>[<sup>2</sup>](http://web.suda.edu.cn/zhangliml/index.html)** and Ph.D superviser is **[Prof. JIAO licheng](http://web.xidian.edu.cn/lchjiao/indexen.html)**. I am working on developing deep neural network models and algorithms for face detection, face recognition, image generation and instance segmentation.
+Now, I'm transferred to the headquarters of JD Digits (aka JD Finance) which located in Beijing, China. Before transfer, I'm a research scientist of JD Digits (aka JD Finance) AI Lab in Silicon Valley, CA, US. Before joining JD Digits AI Lab, I was a senior research engineer of Learning & Vision, Core Technology Group, Panasonic R&D Center Singapore (PRDCSG). I received Ph.D degree of pattern recognition & intelligent system from school of electronic engineering, Xidian University. My Master's superviser is **Prof. ZHANG li[<sup>1</sup>](https://www.researchgate.net/profile/Li_Zhang80/info)<sup>,</sup>[<sup>2</sup>](http://web.suda.edu.cn/zhangliml/index.html)** and Ph.D superviser is **[Prof. JIAO licheng](http://web.xidian.edu.cn/lchjiao/indexen.html)**. I am working on developing deep neural network models and algorithms for face detection, face recognition, image generation and instance segmentation.
 
 ## Research Interests:
 
-Unconstrained/large-scale face recognition, deep learning architecture engineering, person re-identification, transfer learning, Riemannian manifold optimization, sparse and low-rank matrix factorization.
+Distributed model parallelism, unconstrained/large-scale face recognition, deep learning architecture engineering, person re-identification, transfer learning, Riemannian manifold optimization, sparse and low-rank matrix factorization.
 
 ## News and Activities:
 
@@ -110,7 +110,9 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 ## Work Experiences:
 
-* 10/2018 - Now:     Research Scientist of JD Digits AI Lab in Silicon Valley, San Francisco, US.
+* 12/2019 - Now:     Expert of JD Digits in Beijing, China.
+
+* 10/2018 - 11/2019: Research Scientist of JD Digtis AI Lab in Silicon Valley, San Francisco, US.
 
 * 03/2018 - 10/2018: Senior Research Engineer of Panasonic R&D Center Singapore, Singapore.
 
@@ -140,8 +142,8 @@ Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/mast
 
 **Email:** Lin.Xiong@jd.com, bruinxiong@me.com, bruinxiongmac@gmail.com
 
-**Phone:** +1 669 454 6698, +86 18092636295
+**Phone:** +86 18092636295, +1 669 454 6698 
 
 **WeChat:** bruinxiongmac
 
-**Address:** 675E Middlefield Rd, Mountain View CA 94043, JD Digits AI Lab
+**Address:** KeChuang 12th Street, Economic and Technological Development Zone (DaXing Zone), Beijng, China.
