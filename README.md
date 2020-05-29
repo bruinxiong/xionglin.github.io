@@ -111,7 +111,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 ## Work Experiences:
 
-* 12/2019 - Now:     Expert of JD Digits in Beijing, China.
+* 12/2019 - Now:     Algorithm Expert of JD Digits in Beijing, China.
 
 * 10/2018 - 11/2019: Research Scientist of JD Digtis AI Lab in Silicon Valley, San Francisco, US.
 
