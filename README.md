@@ -5,7 +5,7 @@ Now, I'm transferred to the headquarters of JD Digits (aka JD Finance) which loc
 
 ## Research Interests:
 
-Distributed model parallelism, unconstrained/large-scale face recognition, deep learning architecture engineering, person re-identification, transfer learning, Riemannian manifold optimization, sparse and low-rank matrix factorization.
+Federated Learning, Distributed Model Parallelism, Unconstrained/Large-Scale Face Recognition, Deep Learning Architecture Engineering, Person Re-Identification, Transfer Learning, Riemannian Manifold Optimization, Sparse and Low-Rank Matrix Factorization.
 
 ## News and Activities:
 
@@ -100,6 +100,7 @@ and in-the-wild benchmarks demonstrate the superiority of the proposed model ove
 Full publication can be found in my [researchgate](https://www.researchgate.net/profile/Lin_Xiong4/contributions) or [googlescholar](https://scholar.google.com.sg/citations?user=Auze-lcAAAAJ&hl=en).
 
 ## Reviewer and Member:
+* **9th International Conference on Learning Representation (ICLR'2021)**
 * **34th Neural Information Processing Systems (NeurIPS'2020)** 
 * **16th European Conference on Computer Vision (ECCV'2020)**
 * **34th AAAI Conference on Artificial Intelligence, Member of Program Committee (PC) for AAAI 2020**
