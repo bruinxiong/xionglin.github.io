@@ -106,7 +106,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 * **16th European Conference on Computer Vision (ECCV'2020)**
 * **34th AAAI Conference on Artificial Intelligence, Member of Program Committee (PC) for AAAI 2020**
 * **IEEE International Conference on Computer Vision (ICCV'2019)**
-* **IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'2019 ~ CVPR'2020)**
+* **IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'2019 ~ CVPR'2021)**
 * **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, IF 11.683 (2018), 2018 -
 * **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, IF 4.046 (2018), 2018 -  
 * 24th International Conference on Pattern Recognition (ICPR 2018)  
