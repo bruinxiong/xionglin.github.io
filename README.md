@@ -100,7 +100,7 @@ and in-the-wild benchmarks demonstrate the superiority of the proposed model ove
 Full publication can be found in my [researchgate](https://www.researchgate.net/profile/Lin_Xiong4/contributions) or [googlescholar](https://scholar.google.com.sg/citations?user=Auze-lcAAAAJ&hl=en).
 
 ## Reviewer and Member:
-* **38th International Conference on Machine Learning (ICML'2021)*
+* **38th International Conference on Machine Learning (ICML'2021)**
 * **35th AAAI Conference on Artificial Intelligence, Member of Program Committee (PC) for AAAI 2021**
 * **9th International Conference on Learning Representation (ICLR'2021)**
 * **34th Neural Information Processing Systems (NeurIPS'2020)** 
