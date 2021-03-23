@@ -9,6 +9,8 @@ Federated Learning, Distributed Model Parallelism, Unconstrained/Large-Scale Fac
 
 ## News and Activities:
 
+**Aug 2020:** To be a **member of the Program Committee (PC)** for **AAAI 2021**, the 35th AAAI Conference on Artificial Intelligence, Feb 2-9 in a virtual conference.
+
 **Oct 2019:** One [paper](https://github.com/bruinxiong/xionglin.github.io/blob/master/Recognizing_Profile_Faces_by_Imagining_Frontal_View_IJCV_2019.pdf) titled with **Recognizing Profile Faces by Imagining Frontal View** is accepted by **IJCV**.
 
 **Aug 2019:** To be a **member of the Program Committee (PC)** for **AAAI 2020**, the 34th AAAI Conference on Artificial Intelligence, Feb 7-12 in New York, NY, USA.
