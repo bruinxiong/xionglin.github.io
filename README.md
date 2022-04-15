@@ -8,10 +8,8 @@ Now, I'm transferred to the headquarters of JDTech which located in Beijing, Chi
 Neural Rendering, Intelligent Video Synthesis, Virtual Digital Man, Federated Learning, Distributed Model Parallelism, Unconstrained/Large-Scale Face Recognition, Deep Learning Architecture Engineering, Person Re-Identification, Transfer Learning, Riemannian Manifold Optimization, Sparse and Low-Rank Matrix Factorization.
 
 <img src="exp5_rgb_orbit-mild_.gif" width="50%" height="50%" align='left' style='width:270px;height:480px'/>
-<img src="OptimusPrime_8_opt.gif" width="50%" height="50%" align='right' style='width:400px;height:400px'/>
-<video id="video" controls="" preload="none" poster="none">
-<source id="mp4" src="optimusprime8-rgb.mp4" type="video/mp4">
-</video>
+<img src="optimusprime8-rgb-short.gif" width="50%" height="50%" align='middle' style='width:270px;height:500px'/>
+<img src="OptimusPrime_8_opt.gif" width="35%" height="35%" align='middle' style='width:800px;height:800px'/>
 
 ## News and Activities:
 
