@@ -7,6 +7,10 @@ Now, I'm transferred to the headquarters of JDTech which located in Beijing, Chi
 
 Neural Rendering, Intelligent Video Synthesis, Virtual Digital Man, Federated Learning, Distributed Model Parallelism, Unconstrained/Large-Scale Face Recognition, Deep Learning Architecture Engineering, Person Re-Identification, Transfer Learning, Riemannian Manifold Optimization, Sparse and Low-Rank Matrix Factorization.
 
+<img src="exp5_rgb_orbit-mild_.gif" width="50%" height="50%" align='left' style='width:270px;height:480px'/>
+<img src="OptimusPrime_8_opt.gif" width="50%" height="50%" align='right' style='width:400px;height:400px'/>
+
+
 ## News and Activities:
 
 **Aug 2020:** To be a **member of the Program Committee (PC)** for **AAAI 2021**, the 35th AAAI Conference on Artificial Intelligence, Feb 2-9 in a virtual conference.
