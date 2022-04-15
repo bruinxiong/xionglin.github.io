@@ -9,7 +9,9 @@ Neural Rendering, Intelligent Video Synthesis, Virtual Digital Man, Federated Le
 
 <img src="exp5_rgb_orbit-mild_.gif" width="50%" height="50%" align='left' style='width:270px;height:480px'/>
 <img src="OptimusPrime_8_opt.gif" width="50%" height="50%" align='right' style='width:400px;height:400px'/>
-
+<video id="video" controls="" preload="none" poster="none">
+<source id="mp4" src="optimusprime8-rgb.mp4" type="video/mp4">
+</video>
 
 ## News and Activities:
 
