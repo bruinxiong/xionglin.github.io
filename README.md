@@ -125,7 +125,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 * 12/2019 - Now:     Algorithm Expert of JD Tech in Beijing, China.
 
-* 10/2018 - 11/2019: Research Scientist of JD Digtis AI Lab in Silicon Valley, San Francisco, US.
+* 10/2018 - 11/2019: Research Scientist of JD Digits AI Lab in Silicon Valley, San Francisco, US.
 
 * 03/2018 - 10/2018: Senior Research Engineer of Panasonic R&D Center Singapore, Singapore.
 
