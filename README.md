@@ -9,6 +9,7 @@ Neural Rendering, Intelligent Video Synthesis, Virtual Digital Man, Federated Le
 
 <img src="exp5_rgb_orbit-mild_.gif" width="50%" height="50%" align='left' style='width:270px;height:480px'/>
 <img src="optimusprime8-rgb-short.gif" width="50%" height="50%" align='middle' style='width:270px;height:500px'/>
+<img src="starscream4_rgb.gif" width="50%" height="50%" align='right' style='width:270px;height:500px'/>
 
 <img src="OptimusPrime_8_opt.gif" width="50%" height="50%" align='middle' style='width:800px;height:800px'/>
 <img src="StarScream_4_opt_2.gif" width="50%" height="50%" align='middle' style='width:800px;height:800px'/>
