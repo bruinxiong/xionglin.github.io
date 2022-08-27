@@ -1,7 +1,7 @@
 # Bio of Xiong Lin (熊 霖)                                <img src="logo.png" width="60%" height="20%" align='right' style='width:240px;height:80px'/>
 ![](XiongLin_NIPS2017.jpeg)
 
-Now, I'm transferred to the headquarters of JDTech which located in Beijing, China. Before transferring, I'm a research scientist of JD Digits (aka JD Finance) AI Lab in Silicon Valley, CA, US. Before joining JD Digits AI Lab, I was a senior research engineer of Learning & Vision, Core Technology Group, Panasonic R&D Center Singapore (PRDCSG). I received Ph.D degree of pattern recognition & intelligent system from school of electronic engineering, Xidian University. My Master's superviser is **Prof. ZHANG li[<sup>1</sup>](https://www.researchgate.net/profile/Li_Zhang80/info)<sup>,</sup>[<sup>2</sup>](http://web.suda.edu.cn/zhangliml/index.html)** and Ph.D superviser is **[Prof. JIAO licheng](http://web.xidian.edu.cn/lchjiao/indexen.html)**. I am working on developing deep neural network models and algorithms for face detection, face recognition, image generation and instance segmentation. To date, I have published over 22 papers including top journals such as IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) and the International Journal of Computer Vision (IJCV), top international conferences such as Neural Information Processing Systems (NeurIPS), Computer Vision and Pattern Recognition (CVPR) and International Joint Conference on Artificial Intelligence (IJCAI). I am also the reviewer for more than 10 top international journals and conferences. There are some intern positions enthused about neural rendering, neural radiance fields related tasks. Contact me at the bottom email address if your are interested.
+Now, I have a new position as a senior algorithm expert in SenseTime in Xi'an China. Before that, I'm an algorithm expert of JDTech in Beijing, China. I was a research scientist of JD Digits (aka JD Finance) AI Lab during 2018-2019 in Silicon Valley, CA, US. Before joining JD Digits AI Lab, I was a senior research engineer of Learning & Vision, Core Technology Group, Panasonic R&D Center Singapore (PRDCSG). I received Ph.D degree of pattern recognition & intelligent system from school of electronic engineering, Xidian University. My Master's superviser is **Prof. ZHANG li[<sup>1</sup>](https://www.researchgate.net/profile/Li_Zhang80/info)<sup>,</sup>[<sup>2</sup>](http://web.suda.edu.cn/zhangliml/index.html)** and Ph.D superviser is **[Prof. JIAO licheng](http://web.xidian.edu.cn/lchjiao/indexen.html)**. I am working on developing deep neural network models and algorithms for face detection, face recognition, image generation and instance segmentation. To date, I have published over 22 papers including top journals such as IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) and the International Journal of Computer Vision (IJCV), top international conferences such as Neural Information Processing Systems (NeurIPS), Computer Vision and Pattern Recognition (CVPR) and International Joint Conference on Artificial Intelligence (IJCAI). I am also the reviewer for more than 10 top international journals and conferences. There are some intern positions enthused about neural rendering, neural radiance fields related tasks. Contact me at the bottom email address if your are interested.
 
 ## Research Interests:
 
@@ -157,10 +157,10 @@ Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/mast
 
 ## Contact:
 
-**Email:** Lin.Xiong@jd.com, bruinxiong@me.com, bruinxiongmac@gmail.com
+**Email:** xionglin@sensetime.com, bruinxiong@me.com, bruinxiongmac@gmail.com
 
 **Phone:** +86 18092636295, +1 669 454 6698 
 
 **WeChat:** bruinxiongmac
 
-**Address:** KeChuang 12th Street, Economic and Technological Development Zone (DaXing Zone), Beijing, China.
+**Address:** Western Cloud Valley 2nd Stage, Xi-Xian new district, China.
