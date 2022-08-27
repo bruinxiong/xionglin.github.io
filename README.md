@@ -8,8 +8,8 @@ Now, I have a new position as a senior algorithm expert in SenseTime in Xi'an Ch
 Neural Rendering, Intelligent Video Synthesis, Virtual Digital Man, Federated Learning, Distributed Model Parallelism, Unconstrained/Large-Scale Face Recognition, Deep Learning Architecture Engineering, Person Re-Identification, Transfer Learning, Riemannian Manifold Optimization, Sparse and Low-Rank Matrix Factorization.
 
 <img src="exp5_rgb_orbit-mild_.gif" width="50%" height="50%" align='left' style='width:270px;height:480px'/>
-<img src="optimusprime8-rgb-short.gif" width="50%" height="50%" align='middle' style='width:270px;height:500px'/>
-<img src="starscream4_rgb.gif" width="50%" height="50%" align='right' style='width:270px;height:500px'/>
+<img src="optimusprime8-rgb-short.gif" width="50%" height="50%" align='middle' style='width:270px;height:480px'/>
+<img src="starscream4_rgb.gif" width="50%" height="50%" align='right' style='width:270px;height:480px'/>
 
 <img src="OptimusPrime_8_opt.gif" width="100%" height="100%" align='middle' style='width:800px;height:800px'/>
 <img src="StarScream_4_opt_2.gif" width="100%" height="100%" align='middle' style='width:800px;height:800px'/>
