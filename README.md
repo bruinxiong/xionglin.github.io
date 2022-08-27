@@ -163,4 +163,4 @@ Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/mast
 
 **WeChat:** bruinxiongmac
 
-**Address:** Western Cloud Valley 2nd Stage, Xi-Xian new district, China.
+**Address:** Western Cloud Valley 2nd Stage, Xi-Xian new district, Xi'an, China.
