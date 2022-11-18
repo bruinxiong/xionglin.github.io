@@ -61,6 +61,8 @@ Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition** is 
 
 ## Selected Publications:
 
+* Shasha Mao, Jingyuan Yang, Shuiping Gou, Licheng Jiao, Tao Xiong, Lin Xiong, **"Multi-scale Fused SAR Image Registration based on Deep Forest"**, is accepted by Remote Sensing, vol.13(11): 2227, **2021**.
+
 * Jian Zhao, Junliang Xing, **Lin Xiong**, Shuicheng Yan and Jiashi Feng, **"Recognizing Profile Faces by Imagining Frontal View"**, is accepted by International Journal of Computer Vision **(IJCV)** -Springer, vol. 128, issue. 2, pp. 460-478, **2020**. **IF 6.071 (2018)**.[PDF](https://github.com/bruinxiong/xionglin.github.io/blob/master/Recognizing_Profile_Faces_by_Imagining_Frontal_View_IJCV_2019.pdf).
 
 + **Abstract:** Extreme pose variation is one of the key obstacles to accurate face recognition in practice. Compared with current techniques for pose-invariant face recognition, which either expect pose invariance from hand-crafted features or data-driven deep learning solutions, or first normalize profile face images to frontal pose before feature extraction, we argue that it is more desirable to perform both tasks jointly to allow them to benefit from each other. To this end, we propose a Pose-Invariant Model (PIM) for face recognition in the wild, with three distinct novelties. First, PIM is a novel and unified deep architecture, containing a Face
