@@ -14,7 +14,7 @@ Neural Rendering, Intelligent Video Synthesis, Virtual Digital Man, Federated Le
 <img src="OptimusPrime_8_opt.gif" width="100%" height="100%" align='middle' style='width:800px;height:800px'/>
 <img src="StarScream_4_opt_2.gif" width="100%" height="100%" align='middle' style='width:800px;height:800px'/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruinxiong)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ## News and Activities:
 
 **Aug 2020:** To be a **member of the Program Committee (PC)** for **AAAI 2021**, the 35th AAAI Conference on Artificial Intelligence, Feb 2-9 in a virtual conference.
@@ -120,7 +120,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 * **16th European Conference on Computer Vision (ECCV'2020)**
 * **34th AAAI Conference on Artificial Intelligence, Member of Program Committee (PC) for AAAI 2020**
 * **IEEE International Conference on Computer Vision (ICCV'2019)**
-* **IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'2019 ~ CVPR'2021)**
+* **IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'2019 ~ CVPR'2023)**
 * **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**, IF 11.683 (2018), 2018 -
 * **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, IF 4.046 (2018), 2018 -  
 * 24th International Conference on Pattern Recognition (ICPR 2018)  
