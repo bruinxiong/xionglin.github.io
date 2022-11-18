@@ -61,7 +61,7 @@ Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition** is 
 
 ## Selected Publications:
 
-* Shasha Mao, Jingyuan Yang, Shuiping Gou, Licheng Jiao, Tao Xiong, Lin Xiong, **"Multi-scale Fused SAR Image Registration based on Deep Forest"**, is accepted by Remote Sensing, vol.13(11): 2227, **2021**.
+* Shasha Mao, Jingyuan Yang, Shuiping Gou, Licheng Jiao, Tao Xiong, **Lin Xiong**, **"Multi-scale Fused SAR Image Registration based on Deep Forest"**, is accepted by Remote Sensing, vol.13(11): 2227, **2021**.
 
 * Jian Zhao, Junliang Xing, **Lin Xiong**, Shuicheng Yan and Jiashi Feng, **"Recognizing Profile Faces by Imagining Frontal View"**, is accepted by International Journal of Computer Vision **(IJCV)** -Springer, vol. 128, issue. 2, pp. 460-478, **2020**. **IF 6.071 (2018)**.[PDF](https://github.com/bruinxiong/xionglin.github.io/blob/master/Recognizing_Profile_Faces_by_Imagining_Frontal_View_IJCV_2019.pdf).
 
