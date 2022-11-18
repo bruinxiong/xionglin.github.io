@@ -17,6 +17,8 @@ Neural Rendering, Intelligent Video Synthesis, Virtual Digital Man, Federated Le
 [![bruinxiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruinxiong)](https://github.com/anuraghazra/github-readme-stats)
 ## News and Activities:
 
+**Jun 2021:** One paper titled with **Multi-scale Fused SAR Image Registration based on Deep Forest** is accepted by **Remote Sensing**.
+
 **Aug 2020:** To be a **member of the Program Committee (PC)** for **AAAI 2021**, the 35th AAAI Conference on Artificial Intelligence, Feb 2-9 in a virtual conference.
 
 **Oct 2019:** One [paper](https://github.com/bruinxiong/xionglin.github.io/blob/master/Recognizing_Profile_Faces_by_Imagining_Frontal_View_IJCV_2019.pdf) titled with **Recognizing Profile Faces by Imagining Frontal View** is accepted by **IJCV**.
