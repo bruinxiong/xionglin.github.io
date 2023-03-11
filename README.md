@@ -17,6 +17,10 @@ Neural Rendering, Intelligent Video Synthesis, Virtual Digital Man, Federated Le
 [![bruinxiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruinxiong)](https://github.com/anuraghazra/github-readme-stats)
 ## News and Activities:
 
+**Mar 2023:** One paper titled with **Surrogate-assisted multi-objective optimization via knee-oriented Pareto front estimation** is accepted by **Swarm and Evolutionary Computation**.
+
+**Jan 2023:** One paper titled with **Adaptive Self-Supervised SAR Image Registration With Modifications of Alignment Transformation** is accepted by **TGRS**.
+
 **Jun 2021:** One [paper](https://github.com/bruinxiong/xionglin.github.io/blob/master/Multi-scale_Fused_SAR_Image_Registration_based_on_Deep_Forest_Remote_Sensing_2021.pdf) titled with **Multi-scale Fused SAR Image Registration based on Deep Forest** is accepted by **Remote Sensing**.
 
 **Aug 2020:** To be a **member of the Program Committee (PC)** for **AAAI 2021**, the 35th AAAI Conference on Artificial Intelligence, Feb 2-9 in a virtual conference.
@@ -60,6 +64,10 @@ Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition** is 
 **IJB-A**) Unconstrained Face Verification and Identification Challenge. Official reports can be found in here: [Identification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_1N_report.pdf) and [Verification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_11_report.pdf) 
 
 ## Selected Publications:
+
+* Shasha Mao, Jinyuan Yang, Shuiping Gou, Kai Lu, Licheng Jiao, Tao Xiong, **Lin Xiong**, **"Adaptive Self-Supervised SAR Image Registration With Modifications of Alignment Transformation"**, is accepted by IEEE Transactions on Geoscience and Remote Sensing, **2023**. **IF 8.125 (2023)**.
+
++ **Abstract:** Considering that deep learning achieves the prominent performance, it has been applied into SAR image registration to improve the registration accuracy. In most methods, a deep registration model is constructed to classify for matched-points and unmatched-points, in which SAR image registration is regarded as a supervised two-classification problem. However, it is difficult to annotate massive matched-points manually in practice, which limits the performance of deep networks. Besides, inevitable differences among SAR images easily cause that some training and testing samples are inconsistent, which probably brings negative effects for training a robust registration model. To address these problems, we propose an adaptive self-supervised SAR image registration method, where SAR image registration is regarded as a self-supervised task rather than the supervised two-classification task. Inspired by self-supervised learning, we consider each point on SAR images as a category-independent instance, which mitigates the requirement of manual annotations. Based on key points from images, a self-supervised model is constructed to explore the latent feature of each key point, and then pairs of match-points are sought via evaluating similarities among key points and used to calculate the alignment transformation matrix. Meanwhile, to enhance the consistency of samples, we design a new strategy that constructs multi-scale samples by transforming key points from one image into another, which avoids inevitable diversities between two images effectively. Specially, the constructed samples feeding to the self-supervised model are adaptively updated with the modification of the transformation matrix in iterations. Moreover, the MPAS indicator is proposed to assist in estimating the transformation. Finally, experimental results illustrate that the proposed method achieves more accurate registrations than other compared methods.
 
 * Shasha Mao, Jinyuan Yang, Shuiping Gou, Licheng Jiao, Tao Xiong, **Lin Xiong**, **"Multi-scale Fused SAR Image Registration based on Deep Forest"**, is accepted by Remote Sensing, vol.13(11): 2227, **2021**. **IF 5.349 (2021)**.[PDF](https://github.com/bruinxiong/xionglin.github.io/blob/master/Multi-scale_Fused_SAR_Image_Registration_based_on_Deep_Forest_Remote_Sensing_2021.pdf).
 
@@ -116,6 +124,7 @@ and in-the-wild benchmarks demonstrate the superiority of the proposed model ove
 Full publication can be found in my [researchgate](https://www.researchgate.net/profile/Lin_Xiong4/contributions) or [googlescholar](https://scholar.google.com.sg/citations?user=Auze-lcAAAAJ&hl=en).
 
 ## Reviewer and Member:
+* **IEEE International Conference on Computer Vision (ICCV'2023)**
 * **36th Neural Information Processing Systems (NeurIPS'2022)** 
 * **39th International Conference on Machine Learning (ICML'2022)**
 * **35th Neural Information Processing Systems (NeurIPS'2021)** 
