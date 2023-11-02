@@ -17,6 +17,8 @@ Neural Rendering, Intelligent Video Synthesis, Virtual Digital Man, Federated Le
 [![bruinxiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruinxiong)](https://github.com/anuraghazra/github-readme-stats)
 ## News and Activities:
 
+**Sep 2023:** One paper titled with **RGMIL: Guide Your Multiple-Instance Learning Model with Regressor** is accepted by ***NeurIPS 2023***. 
+
 **Mar 2023:** One paper titled with **Surrogate-assisted multi-objective optimization via knee-oriented Pareto front estimation** is accepted by **Swarm and Evolutionary Computation**.
 
 **Jan 2023:** One paper titled with **Adaptive Self-Supervised SAR Image Registration With Modifications of Alignment Transformation** is accepted by **TGRS**.
@@ -64,6 +66,9 @@ Photorealistic Cross-Age Face Synthesis for Age-Invariant Face Recognition** is 
 **IJB-A**) Unconstrained Face Verification and Identification Challenge. Official reports can be found in here: [Identification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_1N_report.pdf) and [Verification](https://github.com/bruinxiong/xionglin.github.io/blob/master/IJBA_11_report.pdf) 
 
 ## Selected Publications:
+* Zhaolong Du, Shasha Mao, Yimeng Zhang, Shuiping Gou, Licheng Jiao, **Lin Xiong**, **"RGMIL: Guide Your Multiple-Instance Learning Model with Regressor"**, in Proceedings of the 37th Conference on Neural Information Processing Systems **(NeurIPS)**, New Orleans, USA, Dec 10-16, **2023**. **Acceptance rate is 26.1% (3321/12343)**
+
++ **Abstract:** In video analysis, an important challenge is insufficient annotated data due to the rare occurrence of the critical patterns, and we need to provide discriminative frame-level representation with limited annotation in some applications. Multiple Instance Learning (MIL) is suitable for this scenario. However, many MIL models paid attention to analyzing the relationships between instance representations and aggregating them, but neglecting the critical information from the MIL problem itself, which causes difficultly achieving ideal instance-level performance compared with the supervised model. To address this issue, we propose the $\textbf{\textit{Regressor-Guided MIL network} (RGMIL)}$, which effectively produces discriminative instance-level representations in a general multi-classification scenario. In the proposed method, we make full use of the $\textit{regressor}$ through our newly introduced $\textit{aggregator}$, $\textbf{\textit{Regressor-Guided Pooling} (RGP)}$. RGP focuses on simulating the correct inference process of humans while facing similar problems without introducing new parameters, and the MIL problem can be accurately described through the critical information from the $\textit{regressor}$ in our method. In experiments, RGP shows dominance on more than 20 MIL benchmark datasets, with the average bag-level classification accuracy close to 1. We also perform a series of comprehensive experiments on the MMNIST dataset. Experimental results illustrate that our $\textit{aggregator}$ outperforms existing methods under different challenging circumstances. Instance-level predictions are even possible under the guidance of RGP information table in a long sequence. RGMIL also presents comparable instance-level performance with S-O-T-A supervised models in complicated applications. Statistical results demonstrate the assumption that a MIL model can compete with a supervised model at the instance level, as long as a structure that accurately describes the MIL problem is provided. The codes are available on $\url{https://github.com/LMBDA-design/RGMIL}$.
 
 * Junfeng Tang, Handing Wang, **Lin Xiong**, **"Surrogate-assisted multi-objective optimization via knee-oriented Pareto front estimation"**, is accepted by Swarm and Evolutionary Computation, vol 77, **2023**. **IF 10.267 (2023)**.
 
@@ -128,6 +133,7 @@ and in-the-wild benchmarks demonstrate the superiority of the proposed model ove
 Full publication can be found in my [researchgate](https://www.researchgate.net/profile/Lin_Xiong4/contributions) or [googlescholar](https://scholar.google.com.sg/citations?user=Auze-lcAAAAJ&hl=en).
 
 ## Reviewer and Member:
+* **The Twelfth International Conference on Learning Representations (ICLR'2024)**
 * **IEEE International Conference on Computer Vision (ICCV'2023)**
 * **36th Neural Information Processing Systems (NeurIPS'2022)** 
 * **39th International Conference on Machine Learning (ICML'2022)**
