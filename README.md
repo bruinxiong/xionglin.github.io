@@ -184,10 +184,10 @@ Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/mast
 
 ## Contact:
 
-**Email:** xionglin@sensetime.com, bruinxiong@me.com, bruinxiongmac@gmail.com
+**Email:** , bruinxiong@me.com, bruinxiongmac@gmail.com
 
 **Phone:** +86 18092636295, +1 669 454 6698 
 
 **WeChat:** bruinxiongmac
 
-**Address:** Western Cloud Valley 2nd Stage, Xi-Xian new district, Xi'an, China.
+**Address:** NingBo, China.
