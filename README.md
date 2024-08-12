@@ -152,7 +152,9 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 ## Work Experiences:
 
-* 06/2022 - Now:     Senior Algorithm Expert of SenseTime in Xi'an, China.
+* 08/2024 - Now:     GenAI Algorithm Expert of Geely Auto Research in NingBo, China.
+  
+* 06/2022 - 09/2023: Senior Algorithm Expert of SenseTime in Xi'an, China.
 
 * 12/2019 - 06/2022: Algorithm Expert of JD Tech in Beijing, China.
 
