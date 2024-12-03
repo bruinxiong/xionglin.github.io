@@ -153,7 +153,9 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 ## Work Experiences:
 
 * 08/2024 - Now:     GenAI Algorithm Expert of Geely Auto Research in NingBo, China.
-  
+
+* 10/2023 - 05/2024: Established a studio with Dr. Huang for AIGC
+
 * 06/2022 - 09/2023: Senior Algorithm Expert of SenseTime in Xi'an, China.
 
 * 12/2019 - 06/2022: Algorithm Expert of JD Tech in Beijing, China.
@@ -186,7 +188,7 @@ Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/mast
 
 ## Contact:
 
-**Email:** , bruinxiong@me.com, bruinxiongmac@gmail.com
+**Email:** Lin.Xiong6@geely.com, bruinxiong@me.com, bruinxiongmac@gmail.com
 
 **Phone:** +86 18092636295, +1 669 454 6698 
 
