@@ -139,6 +139,7 @@ and in-the-wild benchmarks demonstrate the superiority of the proposed model ove
 Full publication can be found in my [researchgate](https://www.researchgate.net/profile/Lin_Xiong4/contributions) or [googlescholar](https://scholar.google.com.sg/citations?user=Auze-lcAAAAJ&hl=en).
 
 ## Reviewer and Member:
+* **The Thirteenth International Conference on Learning Representations (ICLR'2025)**
 * **The Twelfth International Conference on Learning Representations (ICLR'2024)**
 * **IEEE International Conference on Computer Vision (ICCV'2023)**
 * **36th Neural Information Processing Systems (NeurIPS'2022)** 
