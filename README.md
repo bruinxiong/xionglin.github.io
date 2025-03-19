@@ -159,7 +159,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 ## Work Experiences:
 
-* 03/2025 - Now:     Advanced Research Manager of ShensiliCon in SooChow, China.
+* 03/2025 - Now:     Senior Research Manager of ShensiliCon in SooChow, China.
 
 * 08/2024 - 03/2025: GenAI Algorithm Expert of Geely Auto Research in NingBo, China.
 
