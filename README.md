@@ -16,6 +16,7 @@ Computational Lithography, ILT, OPC, Mask Optimization, Diffusition Transformer,
 
 [![bruinxiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruinxiong)](https://github.com/anuraghazra/github-readme-stats)
 ## News and Activities:
+**Jun 2025:** I am engaged as a Part-time Professor of School of Artificial Intelligence of Xidian University.
 
 **Mar 2025:** One paper titled with **Cross-Rejective Open-Set SAR Image Registration** is accepted by ***CVPR 2025***.
 
