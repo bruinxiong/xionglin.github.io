@@ -18,7 +18,7 @@ Computational Lithography, ILT, OPC, Mask Optimization, Diffusition Transformer,
 ## News and Activities:
 **Sep 2025:** One paper titled with **Leader is Guided: Interactive Motion Generation via Lead-Follow Paradigm and Trajectory Guidance** is accepted by ***MM 2025***.
 
-**Jun 2025:** I am engaged as a Part-time Professor of **School of Artificial Intelligence of Xidian University**.
+**Jun 2025:** I am engaged as a Part-time Professor of **Artificial Intelligence Research Institude of Xidian University**.
 
 **Mar 2025:** One paper titled with **Cross-Rejective Open-Set SAR Image Registration** is accepted by ***CVPR 2025***.
 
@@ -195,7 +195,7 @@ Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/mast
 
 ## Contact:
 
-**Email:** lin.xiong@smartic.ai, bruinxiong@me.com, bruinxiongmac@gmail.com
+**Email:** lin.xiong@ai-semi.com.cn, lin.xiong@smartic.ai, bruinxiong@me.com, bruinxiongmac@gmail.com
 
 **Phone:** +86 18092636295, +1 669 454 6698 
 
