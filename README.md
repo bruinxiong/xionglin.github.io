@@ -7,12 +7,12 @@ Now, I choose a more challenging work with Dr. Zhou for ShensiliCon and AI-SEMI 
 
 Computational Lithography, ILT, OPC, Mask Optimization, Diffusition Transformer, Neural Rendering, Intelligent Video Synthesis, Virtual Digital Man, Federated Learning, Distributed Model Parallelism, Unconstrained/Large-Scale Face Recognition, Deep Learning Architecture Engineering, Person Re-Identification, Transfer Learning, Riemannian Manifold Optimization, Sparse and Low-Rank Matrix Factorization.
 
-<img src="exp5_rgb_orbit-mild_.gif" width="50%" height="50%" align='left' style='width:270px;height:480px'/>
-<img src="optimusprime8-rgb-short.gif" width="50%" height="50%" align='middle' style='width:270px;height:480px'/>
-<img src="starscream4_rgb.gif" width="50%" height="50%" align='right' style='width:270px;height:480px'/>
+<img src="exp5_rgb_orbit-mild_.gif" width="30%" height="50%" align='left' style='width:270px;height:480px'/>
+<img src="optimusprime8-rgb-short.gif" width="30%" height="50%" align='left' style='width:270px;height:480px'/>
+<img src="starscream4_rgb.gif" width="30%" height="50%" align='left' style='width:270px;height:480px'/>
 
-<img src="OptimusPrime_8_opt.gif" width="100%" height="100%" align='middle' style='width:800px;height:800px'/>
-<img src="StarScream_4_opt_2.gif" width="100%" height="100%" align='middle' style='width:800px;height:800px'/>
+<img src="OptimusPrime_8_opt.gif" width="100%" height="100%" align='center' style='width:800px;height:800px'/>
+<img src="StarScream_4_opt_2.gif" width="100%" height="100%" align='center' style='width:800px;height:800px'/>
 
 ## News and Activities:
 **Sep 2025:** One paper titled with **Leader is Guided: Interactive Motion Generation via Lead-Follow Paradigm and Trajectory Guidance** is accepted by ***MM 2025***.
@@ -156,7 +156,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 ## Work Experiences:
 
-* 03/2025 - Now:     Senior Research Manager of ShensiliCon in SooChow, China.
+* 03/2025 - Now:     Senior Research Manager of ShensiliCon in SooChow, China.  &  Tech Lead of AI-SEMI in Shanghai, China.
 
 * 08/2024 - 03/2025: GenAI Algorithm Expert of Geely Auto Research in NingBo, China.
 
