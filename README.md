@@ -5,7 +5,7 @@ Now, I choose a more challenging work with Dr. Zhou for ShensiliCon and AI-SEMI 
 
 ## Research Interests:
 
-Computational Lithography, ILT, OPC, Mask Optimization, Diffusition Transformer, Neural Rendering, Intelligent Video Synthesis, Virtual Digital Man, Federated Learning, Distributed Model Parallelism, Unconstrained/Large-Scale Face Recognition, Deep Learning Architecture Engineering, Person Re-Identification, Transfer Learning, Riemannian Manifold Optimization, Sparse and Low-Rank Matrix Factorization.
+Computational Lithography, ILT, OPC, Mask Optimization, Diffusion Transformer, Neural Rendering, Intelligent Video Synthesis, Virtual Digital Man, Federated Learning, Distributed Model Parallelism, Unconstrained/Large-Scale Face Recognition, Deep Learning Architecture Engineering, Person Re-Identification, Transfer Learning, Riemannian Manifold Optimization, Sparse and Low-Rank Matrix Factorization.
 
 <img src="exp5_rgb_orbit-mild_.gif" width="30%" height="50%" align='left' style='width:270px;height:480px'/>
 <img src="optimusprime8-rgb-short.gif" width="30%" height="50%" align='left' style='width:270px;height:480px'/>
