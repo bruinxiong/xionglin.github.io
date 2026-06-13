@@ -196,9 +196,9 @@ Photography, [Travel](https://github.com/bruinxiong/xionglin.github.io/blob/mast
 
 ## Contact:
 
-**Email:** lin.xiong@ai-semi.com.cn, lin.xiong@smartic.ai, bruinxiong@me.com, bruinxiongmac@gmail.com
+**Email:** lin.xiong@ai-semi.com.cn, bruinxiong@me.com, bruinxiongmac@gmail.com
 
-**Phone:** +86 18092636295, +1 669 454 6698 
+**Phone:** +86 18092636295, +852 4743 2531, +1 669 454 6698 
 
 **WeChat:** bruinxiongmac
 
