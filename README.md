@@ -156,7 +156,7 @@ Full publication can be found in my [researchgate](https://www.researchgate.net/
 
 ## Work Experiences:
 
-* 04/2026 - Now:     Technical Director of AI SEMI LIMITED in Shanghai & Soochow, China.
+* 04/2026 - Now:     Technical Director of AI SEMI LIMITED in Shanghai & Soochow & HongKong, China.
 
 * 03/2025 - 04/2026: Senior Research Manager of ShensiliCon in SooChow, China.  &  Tech Lead of AI SEMI LIMITED in Shanghai & Soochow, China.
 
